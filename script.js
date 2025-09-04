@@ -1,5 +1,4 @@
 // Interactive Examples JavaScript Code
-
 function demonstrateVariables() {
   const output = document.getElementById("variablesOutput");
   let result = "";
